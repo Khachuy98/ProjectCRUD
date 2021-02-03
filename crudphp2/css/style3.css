@@ -1,0 +1,47 @@
+/*css register*/
+#registerform{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    color: white;
+    font-family:  Calibri, sans-serif;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+#registerform h1{
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+#txtbox{
+    background: #24303c;
+    border: 1px solid #1f53c5;
+    font-size: 22px;
+    font-family: Calibri;
+    border-radius: 5px;
+    width: 95%;
+    padding: 10px;
+    margin-bottom: 16px;
+    color: white;
+}
+#registerform  p{
+    float: left;
+    font-size: 18px;
+    margin: 0 5px 0 0;
+}
+#registerform a{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+#btn{
+    width: 100%;
+    margin: 16px 0px;
+    background: #1f53c5;
+    border: 0;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+}
